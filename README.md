@@ -67,7 +67,7 @@ $ yarn dev or npm run dev
 
 # 🚧 Project
 
-### [Live project!](https://) 🚀
+### [Live project!](https://spotify-next-tailwindcss.vercel.app/) 🚀
 
 # 🎨 Inspiration
 
