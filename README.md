@@ -77,7 +77,7 @@ $ yarn dev or npm run dev
 
 # 📝 License
 
-This is a project made for stidy proposes only.
+This project was made for study purposes only, accompanying the Rocketseat video lesson.
 
 <hr>
 
